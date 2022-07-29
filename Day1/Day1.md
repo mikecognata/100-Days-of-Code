@@ -1,6 +1,6 @@
 # Day 1
 
-## Day 1 I learned the following:
+## I learned...
 - How to connect my Gihub to my VSCode (in a meaningful way)
 - Codewars : naw
 
