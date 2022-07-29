@@ -2,7 +2,7 @@
 Some personal competition
 
 ## Day 1
-I am learning how to link my github to my code
+I am learning about GitHub and practicing some Javascript Functions
 
 More info [here](Day1/Day1.md)
 
