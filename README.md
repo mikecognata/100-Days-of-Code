@@ -9,4 +9,4 @@ More info [here](Day1/Day1.md)
 ## Day 2
 On Day 2, I conquered some errors while building my first full MERN REST app.
 
-More info [here](Day2/Day2-mern.md)
+More info [here](Day2-mern/Day2.md)
